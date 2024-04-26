@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wjoWzrIvgkaM2K54TN1LORVQ/AwCsacErcCplTbtWQ0=",
+  "Source": "VerificaCPF",
+  "BasePath": "_content/VerificaCPF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
